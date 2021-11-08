@@ -99,7 +99,7 @@
 #services .box {
   border: 2px solid brown;
   padding: 34px;
-  margin: 3px 6px;
+  margin: 3px 54px;
   border-radius: 28px;
   background: #eeebeb;
 }
@@ -161,7 +161,7 @@
   opacity: 0.3;
  }
  
- #contact-box {
+ #contact-box{
    display: flex;
    justify-content: center;
    align-items: center;
@@ -178,7 +178,7 @@
  }
 
  #contact-box form {
-   width: 40%;
+   width: 30%;
  }
 
  #contact-box label {
